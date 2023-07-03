@@ -1,0 +1,4 @@
+2023-07-03 18-28:10 DEBUG E:\CODE\C++\cpp_logger\main.cpp:11 hello world!
+2023-07-03 18-28:23 ERROR E:\CODE\C++\cpp_logger\main.cpp:12 hello world!
+2023-07-03 18-28:23 FATAL E:\CODE\C++\cpp_logger\main.cpp:13 hello world!
+2023-07-03 18-28:23 INFO E:\CODE\C++\cpp_logger\main.cpp:14 hello world!
